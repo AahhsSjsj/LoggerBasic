@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.png" width="30px"> Discord Love Bot <img src="./assets/logo.png" width="30px"></h1>
+<h1 align="center"><img src="./assets/logo.png" width="30px"> Discord Logger Basic <img src="./assets/logo.png" width="30px"></h1>
 <p align="center">LoggerBasic! :heart: </p>
 
 ## ✨Últimas actualizaciones✨
