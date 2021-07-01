@@ -15,9 +15,9 @@ Cuando decida que desea alojar este bot usted mismo, no espere que esto funcione
 
 ## 📸 Capturas de pantalla
 
-<div align="left"><img src="/assets/CapturaDePantalla_1.png"></div><div align="center"><img src="/assets/CapturaDePantalla_2.png"></div><div align="right"><img src="/assets/CapturaDePantalla_3.png"></div>
+<div align="left"><img src="/assets/CapturaDePantalla1.png"></div><div align="center"><img src="/assets/CapturaDePantalla2.png"></div><div align="right"><img src="/assets/CapturaDePantalla3.png"></div>
 
-<div align="center"><img src="/assets/CapturaDePantalla_4.png"></div>
+<div align="center"><img src="/assets/CapturaDePantalla4.png"></div>
 
 ## 💨 Ejecuta los proyectos
 
