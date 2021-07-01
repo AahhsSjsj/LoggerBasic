@@ -27,3 +27,5 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicB
 Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jennifer7w7/LoggerBasic)
 
 !Hecho Con Amor ❤️ y JavaScript!
+
+Necesitas Ayuda? Si es Asi Hablame!: [idkxd#4304](https://discord.com/users/804826341471420417)
