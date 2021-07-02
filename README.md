@@ -28,4 +28,4 @@ Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.
 
 !Hecho Con Amor ❤️ y JavaScript!
 
-Necesitas Ayuda? Si es Asi Hablame!: [idkxd#4304](https://discord.com/users/804826341471420417)
+Necesitas Ayuda? Si es Asi Hablame!: [I love myself Uwu#4304](https://discord.com/users/804826341471420417)
