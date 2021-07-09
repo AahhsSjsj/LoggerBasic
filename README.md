@@ -100,7 +100,7 @@ npm install
 
 # No Sabes Como Copiar Tu Token? Sencillo Aqui Lo Podes Ver uwu:
 
-<div align="left"><img src="/assets/token.gif">
+<div align="left"><img src="/assets/token2.gif">
 
 # Paso 2:
 **Despues Del Paso Numero 1 Debes Irte Al Archivo index.js y Pones Esto Donde Dice Esto:**
