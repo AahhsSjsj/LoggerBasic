@@ -1,4 +1,6 @@
 {
+    "token": "Tu Token - Aqui Lo Podes Copiar Tu Token: https://discord.com/developers/applications/clientid/bot",
+    "prefix": "!",
     "everyoneMention": false,
     "hostedBy": true,
     "loggerChannelID": "",

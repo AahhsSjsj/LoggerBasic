@@ -3,6 +3,7 @@ const client = new Discord.Client();
 const db = require('megadb')
 const lineReply = require('discord-reply')
 const mongoose = require('mongoose')
+const { token, prefix } = require('./config.json')
 
 mongoose.connect('MONGO SERVER!', {
   useUnifiedTopology: true,
@@ -134,4 +135,4 @@ client.on('messageDelete', message => {
 
 require('./logger')(client);
 
-client.login("TU TOKEN!")
+client.login(token)
