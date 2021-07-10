@@ -119,6 +119,7 @@ client.on("guildMemberRemove", async (member) => {
  .setTitle(' Un Usuario se ha ido!')
  .setDescription(`El Usuario **${member.user.username}** se ha ido del servidor espero que vuelva! :c`)
  .setFooter("Esperamos que vuelva!")
+ .setTimestamp()
  .setColor("RANDOM")
 
  client.channels.cache.get('CANAL ID').send(embed)
