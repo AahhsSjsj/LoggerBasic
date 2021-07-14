@@ -79,7 +79,7 @@ client.on('message', async message => {
     const embed = new Discord.MessageEmbed()
   
     .setTitle("Buenas")
-    .setDescription('Tu  Texto!')
+    .setDescription('Tu  Texto! xd')
     .setColor("RANDOM")
     message.lineReply(embed)
   }
