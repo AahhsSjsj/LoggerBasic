@@ -1,5 +1,6 @@
 const Discord = require("discord.js");
 const fs = require("fs");
+var colors = require('colors');
 module.exports = (c) => {
     console.log("Módulo registrador cargado".green);
 
