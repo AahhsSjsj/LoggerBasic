@@ -149,8 +149,8 @@ node .
 ```
 **Y Se Activa El Bot Y  Ya Puedes Usarlo UwU**
 
-**Package Aqui: [**Click Aqui**](https://github.com/Jennifer7w7/LoggerBasic#package)**
+**Package Aqui: [**Click Aqui**](https://github.com/AahhsSjsj/LoggerBasic#package)**
 
 # Mas Informacion Aqui:
 
-**[Click Aqui](https://github.com/Jennifer7w7/LoggerBasic#-ejecuta-los-proyectos)**
+**[Click Aqui](https://github.com/AahhsSjsj/LoggerBasic#-ejecuta-los-proyectos)**

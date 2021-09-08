@@ -161,14 +161,14 @@ node .
 ```
 **Y Se Activa El Bot Y  Ya Puedes Usarlo UwU**
 
-**Package Aqui: [**Click Aqui**](https://github.com/Jennifer7w7/LoggerBasic#package)**
+**Package Aqui: [**Click Aqui**](https://github.com/AahhsSjsj/LoggerBasic#package)**
 
 ## 💨 Ejecuta los proyectos
 
 
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Jennifer7w7/LoggerBasic)
-Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/Jennifer7w7/LoggerBasic)
-Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jennifer7w7/LoggerBasic)
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/AahhsSjsj/LoggerBasic)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/AahhsSjsj/LoggerBasic)
+Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AahhsSjsj/LoggerBasic)
 
 !Hecho Con Amor ❤️ y JavaScript!
 
