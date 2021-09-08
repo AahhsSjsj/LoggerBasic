@@ -1,4 +1,4 @@
-const Discord = require('discord.js'); //Definimos discord
+const Discord = require('discord.js'); //Definimos discord.js
 const client = new Discord.Client();
 const db = require('megadb')
 const lineReply = require('discord-reply')
@@ -79,7 +79,7 @@ client.on('message', async message => {
     const embed = new Discord.MessageEmbed()
   
     .setTitle("Buenas")
-    .setDescription('Tu  Texto!')
+    .setDescription('Tu  Texto! xd')
     .setColor("RANDOM")
     message.lineReply(embed)
   }
