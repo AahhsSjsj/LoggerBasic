@@ -210,10 +210,10 @@ module.exports = (c) => {
                 message.guild,
                 "ORANGE",
                 "Mensaje Eliminado!", `
-**Author : ** <@${message.author.id}> - *${message.author.tag}*
-**Fecha : ** ${message.createdAt}
-**Canal : ** <#${message.channel.id}> - *${message.channel.name}*
-**Mensaje Eliminado! : **
+**Author: ** <@${message.author.id}> - *${message.author.tag}*
+**Fecha: ** ${message.createdAt}
+**Canal: ** <#${message.channel.id}> - *${message.channel.name}*
+**Mensaje Eliminado: **
 \`\`\`
 ${message.content.replace(/`/g, "'")}
 \`\`\`
